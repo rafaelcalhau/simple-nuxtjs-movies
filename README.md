@@ -1,4 +1,4 @@
-# simple-movies-webapp
+# simple-nuxtjs-movies
 
 ## API Key
 
