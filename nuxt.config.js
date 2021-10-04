@@ -35,6 +35,11 @@ export default {
     '@nuxtjs/eslint-module',
   ],
 
+  // Enviroment Variables
+  env: {
+    API_KEY: process.env.API_KEY
+  },
+
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
